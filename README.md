@@ -63,8 +63,10 @@ The code is properly formatted:
 * The code also has proper indentation when defining variables and methods.
 
 ## Screenshots
-<img src="https://github.com/acideater/VisitOuroPreto/blob/master/Screenshot_20180611-221320.png" width="280">
-<img src="https://github.com/acideater/VisitOuroPreto/blob/master/Screenshot_20180611-221341.png" width="280">
+<img src="https://github.com/acideater/VisitOuroPreto/blob/master/Screenshot2.jpg" width="280">
+<img src="https://github.com/acideater/VisitOuroPreto/blob/master/Screenshot_20180704-203544.jpg" width="280">
+<img src="https://github.com/acideater/VisitOuroPreto/blob/master/Screenshot_20180704-203638.jpg" width="280">
+<img src="https://github.com/acideater/VisitOuroPreto/blob/master/Screenshot_20180704-203702.jpg" width="280">
 
 ## Author
 
