@@ -1,13 +1,13 @@
 package com.example.android.visitouropreto;
 
 import android.content.Context;
-import android.support.v4.content.ContextCompat;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
+
 import java.util.ArrayList;
 
 public class AttractionsAdapter extends ArrayAdapter<Attractions> {
@@ -16,7 +16,7 @@ public class AttractionsAdapter extends ArrayAdapter<Attractions> {
     /**
      * Create a new {@link AttractionsAdapter} object.
      *
-     * @param context is the current context (i.e. Activity) that the adapter is being created in.
+     * @param context    is the current context (i.e. Activity) that the adapter is being created in.
      * @param attraction is the list of {@link Attractions}s to be displayed.
      */
     public AttractionsAdapter(Context context, ArrayList<Attractions> attraction) {
@@ -36,15 +36,15 @@ public class AttractionsAdapter extends ArrayAdapter<Attractions> {
         Attractions currentAttraction = getItem(position);
 
         // Find the TextView in the list_item.xml layout with the ID attraction_title.
-        TextView attractionTitleTextView = (TextView) listItemView.findViewById(R.id.attraction_title);
+        TextView attractionTitleTextView = listItemView.findViewById(R.id.attraction_title);
         attractionTitleTextView.setText(currentAttraction.getTitleId());
 
         // Find the TextView in the list_item.xml layout with the ID attraction_text.
-        TextView attractionTextTextView = (TextView) listItemView.findViewById(R.id.attraction_text);
+        TextView attractionTextTextView = listItemView.findViewById(R.id.attraction_text);
         attractionTextTextView.setText(currentAttraction.getTextId());
 
         // Find the ImageView in the list_item.xml layout with the ID image.
-        ImageView imageView = (ImageView) listItemView.findViewById(R.id.image);
+        ImageView imageView = listItemView.findViewById(R.id.image);
         // Check if an image is provided for this attraction or not
         if (currentAttraction.hasImage()) {
             // If an image is available, display the provided image based on the resource ID
@@ -57,11 +57,11 @@ public class AttractionsAdapter extends ArrayAdapter<Attractions> {
         }
 
         // Find the TextView in the list_item.xml layout with the ID address.
-        TextView addressTextView = (TextView) listItemView.findViewById(R.id.address);
+        TextView addressTextView = listItemView.findViewById(R.id.address);
         addressTextView.setText(currentAttraction.getAddressId());
 
         // Find the TextView in the list_item.xml layout with the ID hours.
-        TextView hoursTextView = (TextView) listItemView.findViewById(R.id.hours);
+        TextView hoursTextView = listItemView.findViewById(R.id.hours);
         hoursTextView.setText(currentAttraction.getHoursId());
 
         // Return the whole list item layout so that it can be shown in

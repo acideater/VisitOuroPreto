@@ -1,131 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/tan_background">
 
-<LinearLayout
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:orientation="vertical">
-
-    <ImageView
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:scaleType="centerCrop"
-        android:src="@drawable/op2"
-        android:contentDescription="@string/main_photo"/>
+        android:orientation="vertical">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        style="@style/TitleDefault"
-        android:layout_gravity="center"
-        android:text="@string/intro_title"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/main_photo"
+            android:scaleType="centerCrop"
+            android:src="@drawable/op2" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        style="@style/TextDefault"
-        android:text="@string/intro_text"/>
+        <TextView
+            style="@style/TitleDefault"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/intro_title" />
 
-
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:scaleType="centerCrop"
-        android:src="@drawable/op4"
-        android:contentDescription="@string/city_and_mountains"/>
+        <TextView
+            style="@style/TextDefault"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/intro_text" />
 
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        style="@style/TitleDefault"
-        android:text="@string/history_title"/>
-
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="200dp"
-        android:src="@drawable/vila_rica"
-        style="@style/text_images"
-        android:contentDescription="@string/vila_rica"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/city_and_mountains"
+            android:scaleType="centerCrop"
+            android:src="@drawable/op4" />
 
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        style="@style/TextDefault"
-        android:text="@string/history_text"/>
+        <TextView
+            style="@style/TitleDefault"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/history_title" />
+
+        <ImageView
+            style="@style/text_images"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:contentDescription="@string/vila_rica"
+            android:src="@drawable/vila_rica" />
 
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="200dp"
-        android:src="@drawable/flag"
-        style="@style/text_images"
-        android:contentDescription="@string/flag"/>
-
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:src="@drawable/seal"
-        style="@style/text_images"
-        android:contentDescription="@string/seal"/>
-
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        style="@style/TitleDefault"
-        android:text="@string/culinary_title"/>
+        <TextView
+            style="@style/TextDefault"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/history_text" />
 
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        style="@style/TextDefault"
-        android:text="@string/culinary_text"/>
+        <ImageView
+            style="@style/text_images"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:contentDescription="@string/flag"
+            android:src="@drawable/flag" />
+
+        <ImageView
+            style="@style/text_images"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:contentDescription="@string/seal"
+            android:src="@drawable/seal" />
+
+        <TextView
+            style="@style/TitleDefault"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/culinary_title" />
 
 
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:scaleType="centerCrop"
-        style="@style/text_images"
-        android:src="@drawable/culinaria"
-        android:contentDescription="@string/food_photo"/>
+        <TextView
+            style="@style/TextDefault"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/culinary_text" />
 
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        style="@style/TitleDefault"
-        android:text="@string/climate_title"/>
+        <ImageView
+            style="@style/text_images"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/food_photo"
+            android:scaleType="centerCrop"
+            android:src="@drawable/culinaria" />
 
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        style="@style/TextDefault"
-        android:text="@string/climate_text"/>
+        <TextView
+            style="@style/TitleDefault"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/climate_title" />
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="200dp"
-        style="@style/text_images"
-        android:src="@drawable/map"
-        android:contentDescription="@string/map"/>
 
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:scaleType="centerCrop"
-        style="@style/text_images"
-        android:src="@drawable/op3"
-        android:contentDescription="@string/church_and_mountains"/>
+        <TextView
+            style="@style/TextDefault"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/climate_text" />
 
-</LinearLayout>
+        <ImageView
+            style="@style/text_images"
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:contentDescription="@string/map"
+            android:src="@drawable/map" />
+
+        <ImageView
+            style="@style/text_images"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/church_and_mountains"
+            android:scaleType="centerCrop"
+            android:src="@drawable/op3" />
+
+    </LinearLayout>
 
 </ScrollView>

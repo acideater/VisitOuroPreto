@@ -8,23 +8,23 @@
 
     <TextView
         android:id="@+id/attraction_title"
+        style="@style/TitleDefault"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        style="@style/TitleDefault"
-        tools:text="title"/>
+        tools:text="title" />
 
     <ImageView
         android:id="@+id/image"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:scaleType="centerCrop"
-        android:layout_margin="16dp"/>
+        android:layout_margin="16dp"
+        android:scaleType="centerCrop" />
 
     <TextView
         android:id="@+id/attraction_text"
+        style="@style/TextDefault"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        style="@style/TextDefault"
         tools:text="text" />
 
 
@@ -38,14 +38,14 @@
             android:layout_height="33dp"
             android:layout_margin="8dp"
             android:paddingLeft="8dp"
-            android:src="@drawable/ic_map"/>
+            android:src="@drawable/ic_map" />
 
         <TextView
             android:id="@+id/address"
+            style="@style/TextMore"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
-            style="@style/TextMore"
             tools:text="address" />
 
     </LinearLayout>
@@ -53,22 +53,22 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_marginBottom="28dp">
+        android:layout_marginBottom="28dp"
+        android:orientation="horizontal">
 
         <ImageView
             android:layout_width="32dp"
             android:layout_height="32dp"
             android:layout_margin="8dp"
             android:paddingLeft="8dp"
-            android:src="@drawable/ic_action_clock"/>
+            android:src="@drawable/ic_action_clock" />
 
         <TextView
             android:id="@+id/hours"
-            android:layout_gravity="center"
+            style="@style/TextMore"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            style="@style/TextMore"
+            android:layout_gravity="center"
             tools:text="hours" />
 
     </LinearLayout>
