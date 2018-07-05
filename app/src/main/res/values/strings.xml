@@ -1,0 +1,237 @@
+<resources>
+    <string name="app_name">Visit Ouro Preto</string>
+    <string name="ouro_preto">Ouro Preto</string>
+
+    <!-- Image and Photo credits and subtitles -->
+    <string name="main_photo">Church São Francisco de Paula (Photo by Ana Paula)</string>
+    <string name="city_and_mountains">City and mountains (Photo by Ana Paula)</string>
+    <string name="vila_rica">Villa Rica de Ouro Preto (19th century)</string>
+    <string name="flag">Official flag of Ouro Preto</string>
+    <string name="seal">Official seal of Ouro Preto</string>
+    <string name="food_photo">Mineira Food</string>
+    <string name="church_and_mountains">Church São Francisco de Paula (Photo by Ana Paula)</string>
+    <string name="map">Ouro Preto MG Map</string>
+
+
+    <!-- Drawer items -->
+    <string name="nav_header_title">Menu</string>
+    <string name="nav_header_subtitle">Discover more about Ouro Preto</string>
+    <string name="history">History</string>
+    <string name="photos">Photos</string>
+    <string name="videos">Videos</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+
+    <!-- Menu items -->
+    <string name="category_main">Home</string>
+    <string name="category_see">To see</string>
+    <string name="category_do">To do</string>
+    <string name="category_eat">To eat</string>
+
+
+    <!-- Long texts -->
+    <string name="intro_title">Welcome to Visit Ouro Preto Tour Guide App</string>
+    <string name="intro_text">Ouro Preto (Black Gold) is a city in the state of Minas Gerais,
+        Brazil. Located in one of the main areas of the Brazilian Gold Rush in Espinhaço mountains,
+        it was a former colonial mining town and now it\'s considered a World Heritage Site by
+        UNESCO because of its outstanding Baroque architecture.\n\nOuro Preto is one of Brazil\'s
+        best-preserved colonial towns and it is one of the most popular travelling destinations in
+        the country.\n\nIf you want to know more about the History, Climate, Art and Culinary of Ouro Preto and
+        Minas Gerais state, just keep scrolling down. To see tourist attractions, scroll left or
+        navigate using the menu above.</string>
+
+    <string name="history_title">History &amp; Art</string>
+    <string name="history_text">
+        Founded at the end of the 17th century, Ouro Preto was originally called Vila Rica (meaning
+        Rich Village), the focal point of the gold rush and Brazil\'s golden age in the 18th century
+        under Portuguese rule.\n\nOfficially, 800 tons of gold were sent from Ouro Preto to Portugal in the 18th century.
+        Other gold circulated illegally, and still other gold remained in the colony to adorn
+        churches and for other uses. In the 18th century, Vila Rica was the largest city in Brazil
+        and one of the most populous cities in the New World, with 100,000 inhabitants, but its
+        importance declined after the state capital was moved to Belo Horizonte in 1889.\n\n
+        The city centre contains well-preserved Portuguese colonial architecture, with few signs of
+        modern urban development. New construction must keep with the city\'s historical aesthetic.
+        \n\nThe tremendous wealth from gold mining in the 18th century created a city which attracted
+        the intelligentsia of Europe. Philosophy and art flourished, and evidence of a baroque
+        revival called the "Barroco Mineiro" is illustrated in architecture as well as by sculptors
+        such as Aleijadinho, painters such as Mestre Athayde, composers such as Lobo de Mesquita,
+        and poets such as Tomás António Gonzaga.\n\n18th and 19th century churches decorated with gold and the sculptured works of Aleijadinho
+        make Ouro Preto a tourist destination.
+        </string>
+
+    <string name="culinary_title">Culinary</string>
+    <string name="culinary_text">Food in Minas Gerais is an attraction simply by itself, and this local
+        Brazilian cuisine alone justifies a trip to Ouro Preto. The typical dishes of Ouro Preto
+        have distinct personalities and accents, originating in the union of different people and
+        ethnic groups that give the region a sense of diversity. An equally diverse number of
+        Ouro Preto restaurants will give you the chance to try Minas Gerais cuisine firsthand.
+    </string>
+
+    <string name="climate_title">Climate &amp; Location</string>
+    <string name="climate_text">Located at 1,179 m (3,868 ft) above sea level, Ouro Preto has a
+        subtropical highland climate (Cwb, according to the Köppen climate classification), with
+        warm and humid summers and mild, dry winters. Frost is occasional and occur in June and
+        July. There is a report of snow in the city in the year of 1843.</string>
+
+
+    <string name="more_info">More information:</string>
+
+    <!-- To See -->
+    <string name="to_see_title_one">Church of Saint Francis of Assisi</string>
+    <string name="to_see_text_one">This unique rococo-style church, built in 1776, is arguably
+        Aleijadinho\'s greatest work. The circular bell towers and the oculus closed by a relief
+        were original features in religious architecture of that time in Brazil. The facade has a
+        single entrance door under a soapstone frontispiece under a relief depicting Saint Francis
+        receiving the stigmata. The interior is richly decorated with golden woodwork, statues and
+        paintings, and the wooden ceiling displays a painting by Manuel da Costa Ataíde.</string>
+    <string name="to_see_address_one">Location: Ouro Preto &#8211; State of Minas Gerais, 35400&#8211;000, Brazil</string>
+    <string name="to_see_hours_one">Hours: 8:30AM–5PM except Mondays</string>
+
+    <string name="to_see_title_two">Itacolomi State Park</string>
+    <string name="to_see_text_two"> Shared by the municipalities of Ouro Preto and Mariana is a park
+        which contains very diverse flora and fauna with many hiking opportunities. The centerpiece
+        of the park, Itacolomi Peak, is a pair of rocks, one huge and one much smaller, which can be
+        seen from hilltops around town. Itacolomi means "the Rock and the Boy" in Tupi-Guarani. For
+        experienced hikers, it is possible to take a difficult 12 km trek through the park to visit
+        the village of Lavras Novas and its nearby waterfalls. Visitors to the park must be
+        accompanied by a guide, which can be arranged in advance by telephone.</string>
+    <string name="to_see_address_two">Location: Rodovia BR 356 Km 98, s/n, Ouro Preto &#8211; MG, 35400&#8211;000, Brazil</string>
+    <string name="to_see_hours_two">Hours: 8AM–5PM except Mondays</string>
+
+    <string name="to_see_title_three">Conspiracy Museum (Museu da Inconfidência)</string>
+    <string name="to_see_text_three">This museum is dedicated to the memory of the Inconfidência
+        Mineira, an unsuccessful 1789 revolt against Portuguese rule which was inspired by the
+        American Revolution. The building, itself one of the best extant specimens of colonial
+        baroque architecture, houses the remains of some the revolutionaries, a library and
+        archives, as well as works by artists of the period, including works by Aleijadinho and
+        Manuel da Costa Ataíde. </string>
+    <string name="to_see_address_three">Location: Praça Tiradentes, 139 &#8211; Centro Histórico, Ouro Preto &#8211; MG, 35400&#8211;000, Brazil</string>
+    <string name="to_see_hours_three">Hours: 10AM–6PM except Mondays</string>
+
+    <string name="to_see_title_four">Church of Nossa Senhora do Pilar</string>
+    <string name="to_see_text_four">The oldest church in the city was designed by one of
+        Aleijadinho\'s mentors and completed in 1731 to replace the original main church.
+        Despite the rather stark outward appearance, the interior glistens with almost 1000 pounds
+        of gold and almost 900 pounds of silver. The basement of the church holds the Museum of
+        Sacred Art. </string>
+    <string name="to_see_address_four">Location: Praça Monsenhor Castilho Barbosa, 17 &#8211; Pilar, Ouro Preto &#8211; MG, 35400&#8211;000, Brazil</string>
+    <string name="to_see_hours_four">Hours: 8:30AM–5PM except Mondays</string>
+
+    <string name="to_see_title_five">Mina da Passagem (Mine of the Crossing)</string>
+    <string name="to_see_text_five"> Located in the city of Mariana MG (5 miles from Ouro Preto),
+        this is the world\'s largest mine open to the public. In order to reach the mining galleries
+        a small trolley is used and it is held by a steel cable.
+        You descend for 315 meters and the total depth reaches 120 meters. The visit to the mine is
+        accompanied by a guide (who normally does not speak English, so make sure you have someone
+        who can translate for you). Apart from the grandiosity of the excavation, there is also a
+        beautiful underground lake. </string>
+    <string name="to_see_address_five">Location: 192 Rua Eugênio Eduardo Raballo, Mariana &#8211; MG, 35420&#8211;000, Brazil </string>
+    <string name="to_see_hours_five">Hours: 9AM–5PM</string>
+
+    <string name="to_see_title_six">Casa dos Contos Museum (Tax Collection House Museum)</string>
+    <string name="to_see_text_six"> Built between 1782 and 1784, Casa dos Contos was home to João
+        Rodrigues de Macedo, the administrator of tax collection and one of the wealthiest men in
+        18th century colonial Brazil. Tax money owed to the Portuguese crown was paid at the house.
+        Macedo was also one of the most eminent supporters of the underground Independence Movement
+        of Minas Gerais state (the Inconfidência) in 1789. Ironically, this colonial baroque
+        structure served as a jail for revolutionaries in the late 18th century.  </string>
+    <string name="to_see_address_six">Location: R. São José, 12 &#8211; Centro Ouro Preto &#8211; MG, 35400&#8211;000, Brazil </string>
+    <string name="to_see_hours_six">Hours: 10AM–5PM</string>
+
+    <!-- To Do -->
+    <string name="to_do_title_one">Holy Week processions</string>
+    <string name="to_do_text_one">Easter week brings lavish celebration to the streets around the
+        four parishes of the town. In the late night and morning hours after Saturday night’s Easter
+        Vigil, townspeople decorate the cobblestone streets with a tapete, or carpet, of colored
+        wood shavings to mark the hilly, one kilometer route for the next morning\'s Easter
+        procession. Everybody can participate in the making of the carpets. Ouro Preto culminates
+        its Holy Week observances with a 6 a.m. Mass at St. Francis of Assisi and a procession along
+        the 1 km route covered that decorated the night before.</string>
+    <string name="to_do_address_one">Location: Ouro Preto &#8211; MG, Brazil</string>
+    <string name="to_do_hours_one">Date: Between March and April </string>
+
+    <string name="to_do_title_two">Winter Festival</string>
+    <string name="to_do_text_two"> In July, the Winter Festival is held in Ouro Preto, and it
+        invades the streets, hills, parks, theaters and cinema. One of the country\'s largest
+        cultural events, the Winter Festival brings together performing arts, music, visual arts and
+        literature, with workshops and cultural events. The event is organized by the Universidade
+        Federal de Ouro Preto (Federal University of Ouro Preto).</string>
+    <string name="to_do_address_two">Location: Ouro Preto, Mariana and João Monlevade</string>
+    <string name="to_do_hours_two">Date: 07/06/2018 &#8211; 07/22/2018 </string>
+
+    <string name="to_do_title_three">Carnaval</string>
+    <string name="to_do_text_three">The street carnaval in Ouro Preto attracts thousands of people
+        every year. Traditional band music is played across town, and many people dress up in
+        costumes during the holiday. There are two main types of street parade in town: the one with
+        samba schools and the one with blocos (blocks). Carnaval usually takes place in February or
+        March, depending on the timing of Lent. It starts on the Saturday immediately before Lent
+        and ends the day before Ash Wednesday. Ouro Preto has the oldest carnival block in Brazil:
+        Zé Pereira dos Lacaios, founded in 1867.</string>
+    <string name="to_do_address_three">Location: Ouro Preto &#8211; MG, Brazil </string>
+    <string name="to_do_hours_three">Date: 02/09/2018 &#8211; 02/14/2018 </string>
+
+    <string name="to_do_title_four">Soapstone Handicraft Fair</string>
+    <string name="to_do_text_four">Popularly known as Soapstone Fair, the Association of Exhibitors
+        of Largo do Coimbra have been meeting, since 1995 in front of the Church of Saint Francis of
+        Assisi, to commercialize and exhibit their works. Historical sources indicate that the space
+        where the fair is located has been a point for exchanges and sales of goods and services
+        since 1824. Today, the fair has more than 50 tents and attracts tourists from all over the
+        world. There you can buy jewelry, such as necklaces, earrings, rings and bracelets,
+        embroidered t-shirts and caps, precious stones and decorative pieces of soapstone.
+        This is a great place to buy gifts and keep memories of Ouro Preto.</string>
+    <string name="to_do_address_four">Location: Largo do Coimbra, Ouro Preto &#8211; MG, 35400&#8211;000, Brazil</string>
+    <string name="to_do_hours_four">Hours: 7AM–7PM</string>
+
+    <!-- to Eat - all texts taken from https://www.lonelyplanet.com -->
+    <string name="to_eat_title_one">Casa do Ouvidor</string>
+    <string name="to_eat_text_one">Just downhill from Praça Tiradentes, Ouvidor has garnered
+        numerous awards for its comida mineira. At night, low lighting enhances the rustic charm of
+        the ancient upstairs dining room. Definitely come with an empty stomach – portions are
+        immense.</string>
+    <string name="to_eat_address_one">Location: 42 &#8211; Centro Rua Direita, Ouro Preto &#8211; MG, 35400&#8211;000, Brazil</string>
+    <string name="to_eat_hours_one">Hours: 11AM–3PM, 7–10PM</string>
+
+    <string name="to_eat_title_two">Café Geraes &amp; Escadabaixo</string>
+    <string name="to_eat_text_two"> Well-heeled students and artists favor this trendy spot to sip
+        wine, talk shop and linger over creatively prepared salads, pasta, salmon and steak dishes.
+        On weekdays, there\'s a good-value prato executivo lunch – main dish, salad, dessert and
+        coffee for $8. Their downstairs space Escadabaixo serves the exact same menu, but with
+        more of a cellar beer-hall atmosphere.</string>
+    <string name="to_eat_address_two">Location: Rua Direita, 122 &#8211; centro, Ouro Preto &#8211; MG, 35400&#8211;000, Brazil</string>
+    <string name="to_eat_hours_two">Hours: 12PM–12AM (Closed Tuesdays) </string>
+
+    <string name="to_eat_title_three">Bené da Flauta</string>
+    <string name="to_eat_text_three">Occupying two levels of a gorgeous colonial sobrado (mansion)
+        just below Igreja de São Francisco, this upscale restaurant is ideal for a romantic dinner,
+        with pretty views of Ouro Preto\'s hillsides, candlelight reflecting off tall multi-paned
+        windows, and Brazilian jazz on the sound system. The menu of trout, steak, pasta and mineira
+        specialties is complemented by a good wine list. </string>
+    <string name="to_eat_address_three">Location: R. São Francisco de Assis, 32 &#8211; Centro, Ouro Preto &#8211; MG, 35400&#8211;000, Brazil</string>
+    <string name="to_eat_hours_three">Hours: 12–11:30PM</string>
+
+    <string name="to_eat_title_four">Chafariz</string>
+    <string name="to_eat_text_four">Eclectically decorated with old photos, religious art, Brazilian
+        flags and antiques, this local institution serves one of Minas\' tastiest (if priciest)
+        buffets. The menu showcases traditional local favorites such as lombo (roasted pork loin)
+        and feijão tropeiro, followed by Minas cheese and goiabada (guava paste) for dessert.
+        Post-meal shots of cachaça, coffee and jabuticaba liqueur are included in the price. </string>
+    <string name="to_eat_address_four">Location: 167, R. São José &#8211; Centro, Ouro Preto &#8211; MG, 35400&#8211;000, Brazil</string>
+    <string name="to_eat_hours_four">Hours: 11:30AM-4PM (Closed Monday)</string>
+
+    <string name="to_eat_title_five">O Passo</string>
+    <string name="to_eat_text_five"> In a lovely 18th-century building with intimate candlelit
+        interior, this local favorite specializes in pizza, pasta and salads complemented by a good
+        wine list. Outside, the relaxed creekside terrace is ideal for an after-dinner drink. On
+        Tuesday nights, don’t miss the rodizio de pizzas (all-you-can-eat pizza, $15). There's
+        live jazz on Thursdays and Friday evenings, and during Sunday lunch. </string>
+    <string name="to_eat_address_five">Location: Rua Sao Jose Downtown, Ouro Preto, State of Minas Gerais 35400&#8211;000, Brazil</string>
+    <string name="to_eat_hours_five">Hours: 12PM–1AM </string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
